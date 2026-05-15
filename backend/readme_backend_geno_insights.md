@@ -554,7 +554,6 @@ Aunque el backend cubre el alcance principal del challenge, hay mejoras razonabl
 
 - ¿Quién puede crear guardias y resetear PINs?
 - ¿El QR debe representar una visita puntual o una credencial permanente del visitante?
-- ¿Qué pasa si un visitante pierde su QR?
 - ¿Durante cuánto tiempo deben conservarse las visitas históricas?
 - ¿Las fotos deben ser públicas, privadas o temporales?
 - ¿Qué nivel de auditoría necesita la empresa?
@@ -562,6 +561,7 @@ Aunque el backend cubre el alcance principal del challenge, hay mejoras razonabl
 - ¿Deben existir roles distintos para guardias, administradores y supervisores?
 - ¿Qué ocurre si no hay conexión al momento de registrar un ingreso?
 - ¿Hace falta soporte offline o modo contingencia?
+- ¿Cuantos permisos mas se pueden generar para un visitador?
 
 ## Nota sobre la consigna
 
